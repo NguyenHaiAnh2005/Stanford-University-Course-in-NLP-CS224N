@@ -1,0 +1,5 @@
+1. git pull origin main
+2. proccessing
+3. git add .
+4. git commit -m "text"
+5. git push -u origin main
